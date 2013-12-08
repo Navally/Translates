@@ -1,0 +1,134 @@
+mech:
+    teleport:
+        alert: Zostales teleportowany!
+        range: Zla ranga!
+        create: Teleport Stworzony!
+        arriveonly: Mozesz tylko podrozowac tym teleportem!
+        sign: Nie ma znaku na twojej pozycji!
+    command-items:
+        wait-seconds: sekund do uzycia tego ponownie!
+        need-use: do wpisania tej komendy!
+        wait: Musisz zaczekac
+        out-of-sync: Ekwipunek wyszedl z synchronizacji podczas uzywania komendy przedmiotu.
+        need: Potrzebujesz
+    lift:
+        no-destination: Ta winda nie ma celu!.
+        target-sign-created: Znak windy zostal stworzony.
+        down-sign-created: Znak windy w dol zostal stworzony.
+        no-depart: Nie mozesz wyjsc z tej windy .
+        busy: Winda zajeta!
+        floor: Pietro
+        up-sign-created: Znak windy w gore zostal stworzony.
+        obstruct: Twoj cel jest zatkany!
+        down: Poszedles na nizsze pietro!
+        up: Poszedles na wyzsze pietro!
+        leave: Opusciles winde!
+        no-floor: Nie ma pietra w twojej pozycji!
+    use-permission: Nie masz wystraczajacych uprawnien do uzycia tego.
+    bookcase:
+        fail-line: Bledne pobieranie lini ksiazki.
+        read-line: Podniosles ksiazke...
+        fail-file: Bledne czytanie pliku ksiazki.
+    gate:
+        not-found: Nie mozna znalezc bramy!
+        toggle: Brama zamknieta/otwarta!
+        create: Brama stworzona!
+        valid-item: Pierwsza linia potrzebuje id waznego bloku.
+    lightstone:
+        lightstone: 'Swiecacy kamien:'
+    door:
+        material: Drzwi musza byc cale zrobione z tego samego bloku!
+        other-sign: tabliczka drzwi zlanazla inna strone (albo jest za daleko).
+        toggle: Drzwi otwarte/zamkniete!
+        create: Drzwi stworzone!
+        unusable: Material nie moze byc uzyty do budowy drzwi!
+    chairs:
+        stand: Juz nie siedzisz!
+        floating: To krzeslo nic nie ma pod soba!
+        sit: Juz siedzisz!
+        in-use: To krzeslo jest w uzyciu!
+    anchor:
+        create: Fragment zakotwiczony!
+        already-anchored: Ten fragment zostal zakotwiczony!
+    hiddenswitch:
+        toggle: Uslyszales stlumiony nacisnij do zmiany!
+        key: Klucz nie jest zdolny do tego!
+    pay:
+        create: Placenie stworzone!
+    bridge:
+        toggle: Most opuszczony/podniesiony!
+        end-create: Koniec mostu stworzony!
+        other-sign: Nie znaleziono drugiego konca (lub jest za daleko).
+        create: Most stworzony!
+        unusable: Material nie moze byc uzyty do mostu!
+        material: Most musi byc zrobiony w calosci z tego samego materialu!
+    cauldron:
+        legacy-not-in-group: Nie wydaje sie jesli masz zdolnosci...
+        cook: 'Ugotowales teraz ten przepis:'
+        leaky: Kociol ma nieszczelnosc!
+        legacy-not-a-recipe: Hmm, ta mikstura nic nie robi...
+        permissions: Nie masz uprawnien do robienia tej mikstury.
+        no-lava: Kociol ma niedostatek lawy!
+        legacy-create: W chmurze dymu zrobiles!
+        too-small: Kociol jest zbyt maly!
+        stir: Miszasz kociol ale nic sie nie dzieje.
+    painting:
+        editing: Teraz edytujesz malowanie!
+        used: To malowanie juz jest edytowane przez
+        range: Jestes zbyt daleko od malowania!
+        stop: Juz nie edytujesz tego malowania!
+    dgate:
+        create: Mala brama stworzona!
+    pistons:
+        superpush:
+            created: Tlok bardzo mocny stworzony!
+        crush:
+            created: Tlok kruszacy stworzony!
+        supersticky:
+            created: Tlok super klejacy stworzony!
+        bounce:
+            created: Tlon odskokowy stworzony!
+    restock-permission: Nie masz uprawnien do robienia zdjec temu mechanizmowi.
+    signcopy:
+        paste: Wkleiles tabliczke!
+        copy: Skopiowales znak!
+    create-permission: Nie maszy uprawnien do stworzenia mechaniki.
+    ammeter:
+        ammeter: Amperomierz
+    headdrops:
+        click-message: To jest amputowanie glowy..
+        break-permission: Nie masz uprawnien do niszczenia glowy!
+    not-enough-blocks: Nie wystarczajaco blokow by zrobic cyngiel!
+    map:
+        create: Zmieniacz mapy stworzony!
+        invalid: Zle id mapy!
+    cook:
+        add-fuel: Wluz paliwo do ogniska i sluchaj jak ogien wyje!
+        ouch: Auc! to jest gorace!
+        create: Gotowanie na ognisku stworzone!
+    area:
+        missing: Obszar lub nazwa zle wpisana.
+        create: zmienianie obszaru stworzone!
+    restock: Mechanizm uzupelniany!
+    group: Nie jestes w wymaganej grupie!
+    command:
+        create: Znak komendy stworzony!
+    lightswitch:
+        create: Przelacznik swiatla stworzony!
+area:
+    permissions: Nie masz uprawnien do tego tutaj!
+    break-permissions: Nie masz uprawnien do tego, aby uzyc tego tutaj!
+    use-permissions: Nie masz uprawnien do tego aby uzyc tego tutaj!
+vehicles:
+    create-permission: Nie masz uprawnien do utworzenia tego mechanicznego pojazdu!
+variable:
+    missing: Ta zmienna jest poszukiwana!
+    use-permissions: Nie masz uprawnien do uzycia tej zmiennej!
+worldedit:
+    ic:
+        noselection: Znaleziono, ze nie zaznaczyles!
+        notfound: WorldEdit nie zostal znaleziony!
+        unsupported: Zaznaczenie WorldEdit'em jest nie wspierane!
+circuits:
+    pipes:
+        create: Rura stworzona!
